@@ -1,0 +1,1 @@
+console.log('DEFAULT PAPERAIR TEMPLATE');
